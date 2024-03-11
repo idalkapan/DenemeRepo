@@ -1,1 +1,2 @@
 # DenemeRepo
+Main function geliştirildi.
